@@ -16,7 +16,7 @@
 #### 📜 My recent blog posts
 
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (1 week ago)
-- [Greetings](https://alezkv.pro/blog/greetings/) (4 weeks ago)
+- [Greetings](https://alezkv.pro/blog/greetings/) (1 month ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 weeks ago)
 
 #### 📓 Gists I wrote
