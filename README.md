@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) -  (4 days ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) -  (5 days ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (1 month ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (3 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (8 months ago)
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (3 weeks ago)
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (4 weeks ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (1 year ago)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text (4 years ago)
