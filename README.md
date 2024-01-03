@@ -24,6 +24,7 @@
 
 #### ⭐ Recent Stars
 
+- [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (1 day ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (2 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (1 year ago)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
@@ -33,7 +34,6 @@
 - [yudina-m/english-resources](https://github.com/yudina-m/english-resources) - Useful links to learn English (4 years ago)
 - [kevinjqiu/pat](https://github.com/kevinjqiu/pat) - Prometheus Alert Testing utility (4 years ago)
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (6 years ago)
-- [vishalnayak/DistributedSystemReadings](https://github.com/vishalnayak/DistributedSystemReadings) - Good reads for an overall understanding of distributed systems. SBU Fall 2014. (6 years ago)
 
 #### 📫 How to reach me
 
