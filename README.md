@@ -16,7 +16,7 @@
 #### 📜 My recent blog posts
 
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (2 months ago)
-- [Greetings](https://alezkv.pro/blog/greetings/) (2 months ago)
+- [Greetings](https://alezkv.pro/blog/greetings/) (3 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (5 days ago)
+- [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (6 days ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (2 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (1 year ago)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
