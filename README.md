@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) -  (1 month ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) -  (2 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (3 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (5 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (10 months ago)
@@ -17,7 +17,7 @@
 
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (2 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (3 months ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (2 months ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 months ago)
 
 #### 📓 Gists I wrote
 
