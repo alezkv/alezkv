@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (1 day ago)
+- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (1 day ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (2 days ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) -  (2 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (3 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (5 months ago)
@@ -11,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #???
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - 
 - [alezkv/docker-silk](https://github.com/alezkv/docker-silk) - Dockerized SiLK (http://tools.netsa.cert.org/silk/)
