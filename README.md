@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 day ago)
-- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (1 day ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (3 days ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (2 days ago)
+- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (2 days ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (4 days ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (3 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (5 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (10 months ago)
@@ -19,7 +19,7 @@
 
 #### 📜 My recent blog posts
 
-- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (1 day ago)
+- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (2 days ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (2 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (3 months ago)
@@ -29,6 +29,7 @@
 
 #### ⭐ Recent Stars
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (1 day ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (1 week ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (2 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (1 year ago)
@@ -38,7 +39,6 @@
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. (4 years ago)
 - [yudina-m/english-resources](https://github.com/yudina-m/english-resources) - Useful links to learn English (4 years ago)
 - [kevinjqiu/pat](https://github.com/kevinjqiu/pat) - Prometheus Alert Testing utility (4 years ago)
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (6 years ago)
 
 #### 📫 How to reach me
 
