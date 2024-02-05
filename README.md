@@ -30,6 +30,7 @@
 
 #### ⭐ Recent Stars
 
+- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (1 day ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (3 weeks ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (1 month ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (3 months ago)
@@ -39,7 +40,6 @@
 - [Dmitry1987/vault-chrome-extension](https://github.com/Dmitry1987/vault-chrome-extension) - Attempt in creating chrome extension for Hashicorp Vault (4 years ago)
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. (4 years ago)
 - [yudina-m/english-resources](https://github.com/yudina-m/english-resources) - Useful links to learn English (4 years ago)
-- [kevinjqiu/pat](https://github.com/kevinjqiu/pat) - Prometheus Alert Testing utility (4 years ago)
 
 #### 📫 How to reach me
 
