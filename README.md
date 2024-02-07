@@ -23,14 +23,14 @@
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (3 weeks ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (3 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 months ago)
-- [Greetings](https://alezkv.pro/blog/greetings/) (3 months ago)
+- [Greetings](https://alezkv.pro/blog/greetings/) (4 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (2 days ago)
+- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (3 days ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (3 weeks ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (1 month ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (3 months ago)
