@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (3 weeks ago)
-- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (3 weeks ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (4 weeks ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (4 weeks ago)
+- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (4 weeks ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (1 month ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (4 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (6 months ago)
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code (10 months ago)
@@ -20,9 +20,9 @@
 
 #### 📜 My recent blog posts
 
-- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (3 weeks ago)
+- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (4 weeks ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (3 months ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 months ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (4 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (4 months ago)
 
 #### 📓 Gists I wrote
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (5 days ago)
+- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (6 days ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (3 weeks ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (1 month ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (3 months ago)
