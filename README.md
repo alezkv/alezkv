@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 month ago)
-- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (1 month ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (2 months ago)
+- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (2 months ago)
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (2 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (5 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (7 months ago)
@@ -19,7 +19,7 @@
 
 #### 📜 My recent blog posts
 
-- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (1 month ago)
+- [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (2 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (4 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (5 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (5 months ago)
