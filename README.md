@@ -7,7 +7,7 @@
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (2 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (5 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (7 months ago)
-- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code (11 months ago)
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code (1 year ago)
 
 #### 🌱 My latest projects
 
