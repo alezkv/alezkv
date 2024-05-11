@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (2 days ago)
+- [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (3 days ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (3 months ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (3 months ago)
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (4 months ago)
