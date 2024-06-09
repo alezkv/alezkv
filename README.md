@@ -5,7 +5,7 @@
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (1 month ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (4 months ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (4 months ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (4 months ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (5 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (8 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (10 months ago)
 
@@ -21,7 +21,7 @@
 
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (4 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (7 months ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (7 months ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (8 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (8 months ago)
 
 #### 📓 Gists I wrote
