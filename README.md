@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 day ago)
-- [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 week ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (2 days ago)
+- [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (2 weeks ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (1 month ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (5 months ago)
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (5 months ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (4 days ago)
+- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (5 days ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (5 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (7 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (8 months ago)
@@ -28,7 +28,7 @@
 
 #### 📓 Gists I wrote
 
-- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (5 days ago)
+- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -40,7 +40,7 @@
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text (5 years ago)
 - [Dmitry1987/vault-chrome-extension](https://github.com/Dmitry1987/vault-chrome-extension) - Attempt in creating chrome extension for Hashicorp Vault (5 years ago)
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. (5 years ago)
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. (5 years ago)
 - [yudina-m/english-resources](https://github.com/yudina-m/english-resources) - Useful links to learn English (5 years ago)
 
 #### 📫 How to reach me
