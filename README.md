@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (3 days ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (4 days ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (2 weeks ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (1 month ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (5 months ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (6 days ago)
+- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (1 week ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (5 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (8 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (8 months ago)
