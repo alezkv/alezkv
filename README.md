@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 day ago)
-- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (6 days ago)
+- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (2 days ago)
+- [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 week ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (2 weeks ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (1 month ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (5 months ago)
@@ -36,7 +36,7 @@
 
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (4 months ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (5 months ago)
-- [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (5 months ago)
+- [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (6 months ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (8 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (2 years ago)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
