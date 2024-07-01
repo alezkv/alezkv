@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (2 days ago)
+- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (3 days ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 week ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (2 weeks ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (1 month ago)
