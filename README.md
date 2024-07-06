@@ -26,7 +26,7 @@
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (5 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (8 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (8 months ago)
-- [Greetings](https://alezkv.pro/blog/greetings/) (8 months ago)
+- [Greetings](https://alezkv.pro/blog/greetings/) (9 months ago)
 
 #### 📓 Gists I wrote
 
