@@ -4,10 +4,10 @@
 
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 week ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (2 weeks ago)
-- [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (3 weeks ago)
+- [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (4 weeks ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (2 months ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (5 months ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (5 months ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (6 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (9 months ago)
 - [TerryHowe/ansible-modules-hashivault](https://github.com/TerryHowe/ansible-modules-hashivault) - Ansible module for Hashicorp Vault. (11 months ago)
 
@@ -25,7 +25,7 @@
 - [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (2 weeks ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (5 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (8 months ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (8 months ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (9 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (9 months ago)
 
 #### 📓 Gists I wrote
@@ -39,7 +39,7 @@
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (6 months ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (8 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (2 years ago)
-- [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (4 years ago)
+- [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. (5 years ago)
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text (5 years ago)
 - [Dmitry1987/vault-chrome-extension](https://github.com/Dmitry1987/vault-chrome-extension) - Attempt in creating chrome extension for Hashicorp Vault (5 years ago)
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. (5 years ago)
