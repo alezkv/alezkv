@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (2 weeks ago)
+- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (3 weeks ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (3 weeks ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 month ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (2 months ago)
@@ -30,7 +30,7 @@
 
 #### 📓 Gists I wrote
 
-- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (4 weeks ago)
+- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (1 month ago)
 
 #### ⭐ Recent Stars
 
