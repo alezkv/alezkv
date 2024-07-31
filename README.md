@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]  (1 day ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 month ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 month ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 month ago)
