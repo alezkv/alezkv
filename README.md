@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]  (5 days ago)
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]  (6 days ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 month ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 month ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 month ago)
@@ -26,7 +26,7 @@
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (6 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (9 months ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (9 months ago)
-- [Greetings](https://alezkv.pro/blog/greetings/) (9 months ago)
+- [Greetings](https://alezkv.pro/blog/greetings/) (10 months ago)
 
 #### 📓 Gists I wrote
 
