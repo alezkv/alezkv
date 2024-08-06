@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]  (6 days ago)
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]  (1 week ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 month ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 month ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 month ago)
-- [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (2 months ago)
+- [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (3 months ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (6 months ago)
 - [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (6 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (10 months ago)
