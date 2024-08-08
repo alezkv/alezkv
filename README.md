@@ -8,7 +8,7 @@
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (1 month ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (3 months ago)
 - [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (6 months ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (6 months ago)
+- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (7 months ago)
 - [minhlucvan/n8n-nodes-browserless](https://github.com/minhlucvan/n8n-nodes-browserless) - n8n node to interact with browserless instance  (10 months ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 - [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (1 month ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (6 months ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (9 months ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (9 months ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (10 months ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (10 months ago)
 
 #### 📓 Gists I wrote
