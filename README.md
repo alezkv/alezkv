@@ -34,7 +34,7 @@
 #### ⭐ Recent Stars
 
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (8 months ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (8 months ago)
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (9 months ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (9 months ago)
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (11 months ago)
 - [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore) - kubectl plugin for signing Kubernetes manifest YAML files with sigstore (2 years ago)
