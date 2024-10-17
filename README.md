@@ -29,7 +29,7 @@
 
 #### 📓 Gists I wrote
 
-- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (3 months ago)
+- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (4 months ago)
 
 #### ⭐ Recent Stars
 
