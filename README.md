@@ -2,13 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@Nebucatnetzer]  (5 months ago)
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (5 months ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (6 months ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (6 months ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (7 months ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (8 months ago)
-- [alezkv/unfork-with-argocd](https://github.com/alezkv/unfork-with-argocd) - This repo is an article companio for (1 year ago)
-- [alezkv/renovate-terraform-lock-repro](https://github.com/alezkv/renovate-terraform-lock-repro) - Minimal reproduction repo for #??? (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +27,7 @@
 
 #### 📓 Gists I wrote
 
-- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (6 months ago)
+- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (7 months ago)
 
 #### ⭐ Recent Stars
 
