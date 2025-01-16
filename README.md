@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 days ago)
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (5 months ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (6 months ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (6 months ago)
@@ -19,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (6 months ago)
+- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (7 months ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (1 year ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (1 year ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (1 year ago)
