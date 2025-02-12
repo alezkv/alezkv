@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 week ago)
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (6 months ago)
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (7 months ago)
@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (4 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (5 days ago)
 - [automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE](https://github.com/automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE) - Playing with Agents (3 weeks ago)
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (1 year ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (1 year ago)
