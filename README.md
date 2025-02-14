@@ -29,11 +29,11 @@
 
 #### 📓 Gists I wrote
 
-- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (7 months ago)
+- [(!!!Not redundant) MinIO minimal Kubernetes deployment](https://gist.github.com/ac2280dcae300f24495ebb54d44d6d98) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (6 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (1 week ago)
 - [automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE](https://github.com/automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE) - Playing with Agents (3 weeks ago)
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (1 year ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (1 year ago)
