@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (5 days ago)
+- [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (6 days ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (1 month ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 months ago)
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (7 months ago)
-- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (8 months ago)
+- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (9 months ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (9 months ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (9 months ago)
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) -  (10 months ago)
