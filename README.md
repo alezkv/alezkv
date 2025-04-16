@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (3 weeks ago)
+- [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 weeks ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (2 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 months ago)
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (8 months ago)
@@ -23,7 +23,7 @@
 
 #### 📜 My recent blog posts
 
-- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (9 months ago)
+- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (10 months ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (1 year ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (1 year ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (2 years ago)
