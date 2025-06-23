@@ -7,7 +7,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (5 months ago)
 - [AnchorFree/helm-charts](https://github.com/AnchorFree/helm-charts) - Common charts used at AnchorFree (public) (7 months ago)
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (10 months ago)
-- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (11 months ago)
+- [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other (1 year ago)
 - [alezkv/alezkv.pro](https://github.com/alezkv/alezkv.pro) - personal site build on Astro (1 year ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (2 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (3 days ago)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (2 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (4 months ago)
 - [automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE](https://github.com/automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE) - Playing with Agents (5 months ago)
