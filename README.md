@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (3 days ago)
+- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (4 days ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (5 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 months ago)
@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 weeks ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (4 weeks ago)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 month ago)
