@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (5 days ago)
+- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (today)
+- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (6 days ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (5 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 months ago)
@@ -11,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) - 
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other
 - [alezkv/snmp-exporter-mixin](https://github.com/alezkv/snmp-exporter-mixin) - 
