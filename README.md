@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (3 days ago)
+- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (4 days ago)
 - [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (1 week ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (5 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 months ago)
 - [AnchorFree/helm-charts](https://github.com/AnchorFree/helm-charts) - Common charts used at AnchorFree (public) (8 months ago)
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (11 months ago)
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]  (1 year ago)
 
 #### 🌱 My latest projects
 
