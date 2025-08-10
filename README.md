@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (1 day ago)
+- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (2 days ago)
 - [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (2 weeks ago)
 - [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (3 weeks ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 months ago)
