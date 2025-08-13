@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (4 days ago)
+- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (5 days ago)
 - [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (3 weeks ago)
 - [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (4 weeks ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (4 months ago)
@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 day ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 month ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 month ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (1 month ago)
@@ -45,7 +46,6 @@
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (2 years ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (2 years ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (2 years ago)
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding (2 years ago)
 
 #### 📫 How to reach me
 
