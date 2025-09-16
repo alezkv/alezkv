@@ -42,7 +42,7 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (2 months ago)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (7 months ago)
-- [automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE](https://github.com/automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE) - Playing with Agents (7 months ago)
+- [automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE](https://github.com/automateyournetwork/ReACT_AI_Agent_for_Cisco_IOS_XE) - Playing with Agents (8 months ago)
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com. (2 years ago)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (2 years ago)
 - [alx-tools/Hack-The-Virtual-Memory](https://github.com/alx-tools/Hack-The-Virtual-Memory) - This is a series of small articles / tutorials based around virtual memory. The goal is to learn some CS basics, but in a different and more practical way. (2 years ago)
