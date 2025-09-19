@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (2 weeks ago)
-- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (1 month ago)
+- [alezkv/flareup](https://github.com/alezkv/flareup) - FlareUp - lightweight uptime monitoring service built on Cloudflare Workers that checks website availability and response times with reporting via diffirent channels (2 months ago)
 - [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (2 months ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (6 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (7 months ago)
