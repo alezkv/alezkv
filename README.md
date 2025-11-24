@@ -7,7 +7,6 @@
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (8 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (9 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (10 months ago)
-- [AnchorFree/helm-charts](https://github.com/AnchorFree/helm-charts) - Common charts used at AnchorFree (public) (1 year ago)
 
 #### 🌱 My latest projects
 
