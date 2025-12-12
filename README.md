@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (3 months ago)
-- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (4 months ago)
+- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (5 months ago)
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) -  (8 months ago)
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. (10 months ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (11 months ago)
@@ -21,7 +21,7 @@
 
 #### 📜 My recent blog posts
 
-- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (1 year ago)
+- [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (2 years ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (2 years ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (2 years ago)
 - [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (2 years ago)
