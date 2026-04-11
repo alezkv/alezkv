@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (7 months ago)
-- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (8 months ago)
+- [shmokmt/actions-setup-github-comment](https://github.com/shmokmt/actions-setup-github-comment) - Setup suzuki-shunsuke/github-comment Action (9 months ago)
 
 #### 🌱 My latest projects
 
