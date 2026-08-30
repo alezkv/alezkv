@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (11 months ago)
+- [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI (1 year ago)
 
 #### 🌱 My latest projects
 
