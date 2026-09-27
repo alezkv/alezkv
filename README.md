@@ -19,7 +19,7 @@
 - [Backup Kubernetes PVC with Restic, and ketchup(k8up)](https://alezkv.pro/blog/k8up/) (2 years ago)
 - [Unfork with ArgoCD](https://alezkv.pro/blog/unfork-with-argocd/) (2 years ago)
 - [Linux Processes and the Container Revolution: What Lies Beneath](https://alezkv.pro/blog/container-is-a-process/) (2 years ago)
-- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (2 years ago)
+- [Is DevOps really dead now?](https://alezkv.pro/blog/is-devops-dead/) (3 years ago)
 - [Greetings](https://alezkv.pro/blog/greetings/) (3 years ago)
 
 #### 📓 Gists I wrote
