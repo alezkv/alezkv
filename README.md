@@ -2,9 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (1 day ago)
 
 #### 🌱 My latest projects
 
+- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan.
 - [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) - 
 - [alezkv/artfulflax.com](https://github.com/alezkv/artfulflax.com) - A petite website for my significant other
