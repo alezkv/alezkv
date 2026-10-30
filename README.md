@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (1 day ago)
+- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (2 days ago)
 
 #### 🌱 My latest projects
 
