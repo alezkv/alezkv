@@ -2,10 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (4 days ago)
+- [alezkv/uptime-monitor](https://github.com/alezkv/uptime-monitor) - Cloudflare Worker that checks HTTP and TCP endpoints from three regions and sends Telegram alerts, on the Workers free plan (1 day ago)
+- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (5 days ago)
 
 #### 🌱 My latest projects
 
+- [alezkv/uptime-monitor](https://github.com/alezkv/uptime-monitor) - Cloudflare Worker that checks HTTP and TCP endpoints from three regions and sends Telegram alerts, on the Workers free plan
 - [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan.
 - [alezkv/gemini-cli-flake](https://github.com/alezkv/gemini-cli-flake) - Nix Flake for the Gemini CLI
 - [alezkv/devbox-action-repro](https://github.com/alezkv/devbox-action-repro) - 
