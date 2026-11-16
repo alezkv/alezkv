@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (3 days ago)
-- [alezkv/alertmanager-telegram-relay](https://github.com/alezkv/alertmanager-telegram-relay) - A small service between Alertmanager and Telegram. It receives Alertmanager webhooks and keeps one Telegram message for each alert group. (3 days ago)
+- [alezkv/dead-mans-switch](https://github.com/alezkv/dead-mans-switch) - A Cloudflare Worker that sends a Telegram alert when a scheduled job stops sending pings. It runs on the Workers free plan. (4 days ago)
+- [alezkv/alertmanager-telegram-relay](https://github.com/alezkv/alertmanager-telegram-relay) - A small service between Alertmanager and Telegram. It receives Alertmanager webhooks and keeps one Telegram message for each alert group. (4 days ago)
 - [alezkv/uptime-monitor](https://github.com/alezkv/uptime-monitor) - Cloudflare Worker that checks HTTP and TCP endpoints from three regions and sends Telegram alerts, on the Workers free plan (2 weeks ago)
 
 #### 🌱 My latest projects
